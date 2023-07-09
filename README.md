@@ -4,7 +4,7 @@ this project is will make sustainable economy system (bank)
 이 프로젝트는 지속가능한 경제(은행) 시스템을 만들기 위한 것입니다
 
 
-goal : it's focus on minimize risk of loan system // 대출시스템의 리스크를 최소화 하는 데에 초점을 둡니다
+goal : we are focus on minimize risk of loan system // 대출시스템의 리스크를 최소화 하는 데에 초점을 둡니다
 
 <p>
 rules<br>
